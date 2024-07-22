@@ -30,11 +30,12 @@
     "apps": [
         "Google.Chrome",
         "Mozilla.Firefox",
-        "Notepad++",
+        "7zip.7zip",
         ...
     ]
 }
 ```
+> **Note**: Run the `winget upgrade` command to get the list of ***applications Ids*** with updates.
 
 ## Usage
 
