@@ -23,18 +23,18 @@
 
 ***2. Edit apps.json***: Add the application IDs (found in the Microsoft Store) of the apps you want WingetAppUp to handle.
 
-    Example apps.json:
+>Example [apps.json](./apps.json):
 
-    ```json
-    {
-        "apps": [
-            "Google.Chrome",
-            "Mozilla.Firefox",
-            "Notepad++",
-            ...
-        ]
-    }
-    ```
+```json
+{
+    "apps": [
+        "Google.Chrome",
+        "Mozilla.Firefox",
+        "Notepad++",
+        ...
+    ]
+}
+```
 
 ## Usage
 
